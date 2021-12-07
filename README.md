@@ -37,10 +37,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-ismael.cazalilla@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ismael.cazalilla@gmail.com)](mailto:ismael.cazalilla@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelcazalilla&hide=TeX&layout=compact)
-
-
-
 <!---
 ismaelcazalilla/ismaelcazalilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
