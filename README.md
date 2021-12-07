@@ -32,7 +32,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-## 📫 Reach me
+## 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-ismaelcazalilla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelcazalilla/)](https://www.linkedin.com/in/ismaelcazalilla/)
 [![Gmail Badge](https://img.shields.io/badge/-ismael.cazalilla@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ismael.cazalilla@gmail.com)](mailto:ismael.cazalilla@gmail.com)
 
