@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Ismael Cazalilla, but my friends call me Isma.
 
 ## About me
-- 📊 Currently employed at Telefonica as a Digital Data Analyst.
+- 📊 Currently employed at Hiberus as a Data Analyst / Data Engineer working in Data Governance projects.
 - 💻 Experience as Software Engineer.
 - 📚 MSc Big Data & Analytics.
 - 📘 Learning about data storytelling, stoicism, productivity, and neuroscience.
