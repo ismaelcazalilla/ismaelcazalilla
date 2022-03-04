@@ -5,7 +5,7 @@
 - 📊 Currently employed at [Hiberus](https://www.hiberus.com/en) as a Data Analyst / Data Engineer working in Data Governance projects.
 - 💻 Experience as Software Engineer.
 - 📚 MSc Big Data & Analytics.
-- 📘 Learning about data storytelling, stoicism, productivity, and neuroscience.
+- 📘 Learning about data engineering, AWS, stoicism, productivity, and neuroscience.
 
 
 ## 👨🏻‍💻 Technologies
