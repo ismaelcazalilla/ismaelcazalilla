@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Ismael Cazalilla, but my friends call me Isma.
 
 ## About me
-- 📊 Currently employed at [Hiberus](https://www.hiberus.com/en) as a Data Analyst / Data Engineer working in Data Governance projects.
+- 📊 Currently employed at [Hiberus](https://www.hiberus.com/en) as a Data Analyst / Data Engineer working in Data Governance projects on AWS.
 - 💻 Experience as Software Engineer.
 - 📚 MSc Big Data & Analytics.
 - 📘 Learning about data engineering, AWS, stoicism, productivity, and neuroscience.
