@@ -2,7 +2,7 @@
 ## 👋 Hi, I’m Ismael Cazalilla, but my friends call me Isma.
 
 ## About me
-- 💻 Currently employed at [Hiberus](https://www.hiberus.com/en) as a Software & Data Engineer working in Data Governance projects on AWS.
+- 💻 Currently employed at [Hiberus](https://www.hiberus.com/en) as a Software & Data Engineer writing Python code to create ETLs on AWS.
 - 📚 MSc Big Data & Analytics.
 - 📘 Learning about AWS, stoicism, productivity, and neuroscience.
 
