@@ -4,7 +4,7 @@
 ## About me
 - 💻 Currently employed at [Hiberus](https://www.hiberus.com/en) as a Software & Data Engineer writing Python code to create ETLs on AWS.
 - 📚 MSc Big Data & Analytics.
-- 📘 Learning about AWS, Typescript in Node, stoicism, productivity, and neuroscience.
+- 📘 Learning about AWS, stoicism, productivity, and neuroscience.
 
 
 ## 👨🏻‍💻 Technologies
