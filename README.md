@@ -2,9 +2,9 @@
 ## 👋 Hi, I’m Ismael Cazalilla, but my friends call me Isma.
 
 ## About me
-- 💻 Currently employed at [Hiberus](https://www.hiberus.com/en) as a Software & Data Engineer writing Python code to create ETLs on AWS.
+- 💻 Currently employed at [Capgemini](https://www.capgemini.com/) as a Cloud Data Engineer.
 - 📚 MSc Big Data & Analytics.
-- 📘 Learning about AWS, stoicism, productivity, and neuroscience.
+- 📘 Learning about stoicism, productivity, and neuroscience.
 
 
 ## 👨🏻‍💻 Technologies
@@ -23,7 +23,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ## 📫 Contact
