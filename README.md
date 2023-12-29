@@ -2,9 +2,9 @@
 ## 👋 Hi, I’m Ismael Cazalilla, but my friends call me Isma.
 
 ## About me
-- 💻 Currently employed at [Capgemini](https://www.capgemini.com/) as a Cloud Data Engineer.
+- 💻 Currently employed at [Bipi](https://bipicar.com/es/es) 🛻 as Data Team Lead.
 - 📚 MSc Big Data & Analytics.
-- 📘 Learning about stoicism, productivity, and neuroscience.
+- 📘 Learning about stoicism, productivity, and economy.
 
 
 ## 👨🏻‍💻 Technologies
