@@ -4,7 +4,7 @@
 ## About me
 - 💻 Currently employed at [Bipi](https://bipicar.com/es/es) 🛻 as Data Team Lead.
 - 📚 MSc Big Data & Analytics.
-- 📘 Learning about stoicism, productivity, and economy.
+- 📘 Learning about agile product management, data management, productivity, and economy.
 
 
 ## 👨🏻‍💻 Technologies
